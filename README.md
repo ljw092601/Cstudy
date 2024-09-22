@@ -1,4 +1,5 @@
 Cstudy: Preparing for C Language Coding Tests
+
 Welcome to the Cstudy repository! This project is part of a structured study group aimed at mastering C language and preparing for coding tests. Our goal is to collaboratively enhance our problem-solving skills and deepen our understanding of C language through continuous practice and feedback.
 
 📚 Project Overview
