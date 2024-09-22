@@ -16,6 +16,7 @@ GitHub Collaboration: Use GitHub to track progress, share resources, and provide
 Mock Coding Tests: Engage in timed mock tests to simulate real coding test environments and assess our readiness.
 
 👥 Team Members
+
 이정원 (Team Leader)
 Role: Code review and feedback
 Strengths: Achieved Level 2 in Programmers PCCP using C/C++
