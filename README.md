@@ -18,8 +18,8 @@ Mock Coding Tests: Engage in timed mock tests to simulate real coding test envir
 👥 Team Members
 
 이정원 (Team Leader)
+
 Role: Code review and feedback
-Strengths: Achieved Level 2 in Programmers PCCP using C/C++
 
 임선우
 Role: Algorithm study and problem-solving
